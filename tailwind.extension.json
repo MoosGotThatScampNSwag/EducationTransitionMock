@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS/refs/heads/main/tailwind.extension.schema.json",
   "BuildFiles": [
     {
-      "Input": "root\\src\\index.css",
+      "Input": "src\\index.css",
       "Output": "",
       "Behavior": "Default"
     }
